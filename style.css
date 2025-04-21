@@ -1,6 +1,8 @@
 .red {
   color: red;
 }
-.title {
-  color: #364e96;/*文字色*/
+.heading-1 {
+    padding: .5em .7em;
+    border-left: 5px solid #2589d0;
+    color: #333333;
 }
