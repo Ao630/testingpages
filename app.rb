@@ -6,6 +6,6 @@ get '/' do
   erb :index
 end
 
-post '/result' do
+post '/chat' do
   erb :chat
 end
